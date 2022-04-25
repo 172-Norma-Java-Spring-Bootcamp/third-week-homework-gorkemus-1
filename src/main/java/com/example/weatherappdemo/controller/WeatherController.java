@@ -2,7 +2,7 @@ package com.example.weatherappdemo.controller;
 
 
 
-import com.example.weatherappdemo.Service.WeatherService;
+import com.example.weatherappdemo.service.WeatherService;
 import com.example.weatherappdemo.model.WeatherModel;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;

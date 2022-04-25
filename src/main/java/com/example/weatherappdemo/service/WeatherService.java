@@ -1,4 +1,4 @@
-package com.example.weatherappdemo.Service;
+package com.example.weatherappdemo.service;
 
 import com.example.weatherappdemo.model.WeatherModel;
 import lombok.extern.slf4j.Slf4j;
